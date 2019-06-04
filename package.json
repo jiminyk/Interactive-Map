@@ -1,0 +1,19 @@
+{
+  "name": "interactive-map",
+  "version": "1.0.0",
+  "description": "interactive map built using leafletjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiminyk/Interactive-Map.git"
+  },
+  "author": "Christian Gomez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiminyk/Interactive-Map/issues"
+  },
+  "homepage": "https://github.com/jiminyk/Interactive-Map#readme"
+}

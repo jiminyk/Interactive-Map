@@ -1,4 +1,7 @@
-#mapid { 
-    height: auto;
-    width: 100%;
+* { margin: 0; padding: 0;}
+
+#map { 
+    width: 600px;
+    height: 400px;
+    background-color:skyblue;
 }
