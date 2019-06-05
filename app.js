@@ -4,7 +4,7 @@
 // Initialize the map and set view to chosen coordinates and zoom level
 var map = L.map('map', {
     crs: L.CRS.Simple,
-    minZoom: 1
+    minZoom: 0
 });
 
 // Add map image
